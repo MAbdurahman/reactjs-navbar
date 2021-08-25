@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MAbdurahman/reactjs-navbar/static/css/main.85c6d180.chunk.css",
+    "main.js": "/MAbdurahman/reactjs-navbar/static/js/main.17f19239.chunk.js",
+    "main.js.map": "/MAbdurahman/reactjs-navbar/static/js/main.17f19239.chunk.js.map",
+    "runtime-main.js": "/MAbdurahman/reactjs-navbar/static/js/runtime-main.983bc368.js",
+    "runtime-main.js.map": "/MAbdurahman/reactjs-navbar/static/js/runtime-main.983bc368.js.map",
+    "static/css/2.150d169a.chunk.css": "/MAbdurahman/reactjs-navbar/static/css/2.150d169a.chunk.css",
+    "static/js/2.a5fe071d.chunk.js": "/MAbdurahman/reactjs-navbar/static/js/2.a5fe071d.chunk.js",
+    "static/js/2.a5fe071d.chunk.js.map": "/MAbdurahman/reactjs-navbar/static/js/2.a5fe071d.chunk.js.map",
+    "index.html": "/MAbdurahman/reactjs-navbar/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/MAbdurahman/reactjs-navbar/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.85c6d180.chunk.css.map": "/MAbdurahman/reactjs-navbar/static/css/main.85c6d180.chunk.css.map",
+    "static/js/2.a5fe071d.chunk.js.LICENSE.txt": "/MAbdurahman/reactjs-navbar/static/js/2.a5fe071d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.983bc368.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a5fe071d.chunk.js",
+    "static/css/main.85c6d180.chunk.css",
+    "static/js/main.17f19239.chunk.js"
+  ]
+}
