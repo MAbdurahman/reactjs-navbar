@@ -10,10 +10,12 @@ import Contact from './pages/Contact';
 import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
 import Services from './pages/Services';
+import Navbar from './components/navbar/Navbar';
 
 export default function App() {
 	return (
 		<Router>
+      <Navbar />
 			<main>
 				<Switch>
 					<Route path='/' exact>

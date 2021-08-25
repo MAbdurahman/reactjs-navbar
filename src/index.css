@@ -1,0 +1,59 @@
+/* =============================================
+            Website Resets
+================================================ */
+*,
+*::after,
+*::before {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   -o-user-select: none;
+   user-select: none;
+}
+
+*::-moz-focus-inner {
+   border: 0;
+}
+
+*:focus {
+   outline: none !important;
+}
+/* =============================================
+            Root, Html, and Body
+================================================ */
+:root {
+   --light-blue: #7898af;
+   --med-blue: #334155;
+   --light-gray: #e2e2e4;
+   --med-gray: #a9a9a9;
+   --dark-gray: #626262;
+
+   --black: #20212d;
+   --off-black: #393b3d;
+   --white: #ffffff;
+
+   --clr-accent: #9eb9dd;
+
+   --cubic-timing: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+html {
+   font-size: 100%;
+}
+
+html,
+body {
+   height: 100vh;
+}
+
+/* =============================================
+            Utility Classes
+================================================ */
+.heading-text {
+   padding-top: 6em;
+   text-align: center;
+
+}
