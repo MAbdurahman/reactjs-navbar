@@ -1,9 +1,12 @@
-import React from 'react'
+import React, { useEffect } from 'react';
+import { NavLink } from 'react-router-dom';
+import $ from 'jquery';
 
 export default function Navbar() {
-   return (
-      <div>
-         <h1>Navbar</h1>
-      </div>
-   )
+	//**************** functions ****************//
+	return (
+		<div>
+			<h1>Navbar</h1>
+		</div>
+	);
 }
