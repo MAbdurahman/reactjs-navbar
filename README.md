@@ -9,3 +9,5 @@ First install node_modules folder
 
 Then to start app in browser at http://localhost:3000
 ### `npm start or yarn start`
+
+![reactjs-navbar](https://user-images.githubusercontent.com/20928980/130816092-4c7b4b21-8e54-40c2-8654-dc81ec39ea90.gif)
